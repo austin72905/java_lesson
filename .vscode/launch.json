@@ -1,0 +1,385 @@
+{
+    // 使用 IntelliSense 以得知可用的屬性。
+    // 暫留以檢視現有屬性的描述。
+    // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ThreadPoolLesson",
+            "request": "launch",
+            "mainClass": "MutiThread.ThreadPoolLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch CallableLesson",
+            "request": "launch",
+            "mainClass": "MutiThread.CallableLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomerClerk",
+            "request": "launch",
+            "mainClass": "MutiThread.CustomerClerk",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch WaitExample",
+            "request": "launch",
+            "mainClass": "MutiThread.WaitExample",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch LockExample",
+            "request": "launch",
+            "mainClass": "MutiThread.LockExample",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeadlockLesson",
+            "request": "launch",
+            "mainClass": "MutiThread.DeadlockLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadExample6",
+            "request": "launch",
+            "mainClass": "MutiThread.ThreadExample6",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadExample5",
+            "request": "launch",
+            "mainClass": "MutiThread.ThreadExample5",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadExample4",
+            "request": "launch",
+            "mainClass": "MutiThread.ThreadExample4",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadExample3",
+            "request": "launch",
+            "mainClass": "MutiThread.ThreadExample3",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadExample2",
+            "request": "launch",
+            "mainClass": "MutiThread.ThreadExample2",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadExample",
+            "request": "launch",
+            "mainClass": "MutiThread.ThreadExample",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch RunnableLesson",
+            "request": "launch",
+            "mainClass": "MutiThread.RunnableLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadMethod",
+            "request": "launch",
+            "mainClass": "MutiThread.ThreadMethod",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadLesson",
+            "request": "launch",
+            "mainClass": "MutiThread.ThreadLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaLesson2",
+            "request": "launch",
+            "mainClass": "Lambda_lesson.LambdaLesson2",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaLesson",
+            "request": "launch",
+            "mainClass": "Lambda_lesson.LambdaLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch IOLesson",
+            "request": "launch",
+            "mainClass": "IO_lesson.IOLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileLesson",
+            "request": "launch",
+            "mainClass": "File_lesson.FileLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericMuti",
+            "request": "launch",
+            "mainClass": "Generic_lesson.GenericMuti",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericIfce",
+            "request": "launch",
+            "mainClass": "Generic_lesson.GenericIfce",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericLesson",
+            "request": "launch",
+            "mainClass": "Generic_lesson.GenericLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch CollectionUtil",
+            "request": "launch",
+            "mainClass": "Collection_lesson.CollectionUtil",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch PropertiesLesson",
+            "request": "launch",
+            "mainClass": "Map_lesson.PropertiesLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch MapLesson",
+            "request": "launch",
+            "mainClass": "Map_lesson.MapLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetLesson",
+            "request": "launch",
+            "mainClass": "Collection_lesson.SetLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListLesson",
+            "request": "launch",
+            "mainClass": "Collection_lesson.ListLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForeachLesson",
+            "request": "launch",
+            "mainClass": "Collection_lesson.ForeachLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch IteratorLesson",
+            "request": "launch",
+            "mainClass": "Collection_lesson.IteratorLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch CollectionLesson",
+            "request": "launch",
+            "mainClass": "Collection_lesson.CollectionLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnumLesson",
+            "request": "launch",
+            "mainClass": "Enum_lesson.EnumLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch OtherLesson",
+            "request": "launch",
+            "mainClass": "Other_pack_lesson.OtherLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch CompareLesson",
+            "request": "launch",
+            "mainClass": "Compare_lesson.CompareLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch DateLesson",
+            "request": "launch",
+            "mainClass": "Date_lesson.DateLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringMethod",
+            "request": "launch",
+            "mainClass": "String_lesson.StringMethod",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringLesson",
+            "request": "launch",
+            "mainClass": "String_lesson.StringLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceLesson",
+            "request": "launch",
+            "mainClass": "Interface_lesson.InterfaceLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractLesson",
+            "request": "launch",
+            "mainClass": "Abstract_lesson.AbstractLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticLesson",
+            "request": "launch",
+            "mainClass": "Static_lesson.StaticLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConvertLesson",
+            "request": "launch",
+            "mainClass": "Wrapper_lesson.ConvertLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ObjectLesson",
+            "request": "launch",
+            "mainClass": "Inherit_lesson.ObjectLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch InheritLesson",
+            "request": "launch",
+            "mainClass": "Inherit_lesson.InheritLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThisLesson",
+            "request": "launch",
+            "mainClass": "OOP_lesson.ThisLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Animal",
+            "request": "launch",
+            "mainClass": "OOP_lesson.Animal",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Person",
+            "request": "launch",
+            "mainClass": "OOP_lesson.Person",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayLesson2",
+            "request": "launch",
+            "mainClass": "ArrayLesson2",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayLesson",
+            "request": "launch",
+            "mainClass": "ArrayLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannnerLesson",
+            "request": "launch",
+            "mainClass": "ScannnerLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorLesson",
+            "request": "launch",
+            "mainClass": "OperatorLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariableConvert",
+            "request": "launch",
+            "mainClass": "VariableConvert",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariableLesson",
+            "request": "launch",
+            "mainClass": "VariableLesson",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch KeyWord",
+            "request": "launch",
+            "mainClass": "KeyWord",
+            "projectName": "java_lesson_837aadd1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello3",
+            "request": "launch",
+            "mainClass": "Hello3",
+            "projectName": "java_lesson_837aadd1"
+        }
+    ]
+}
